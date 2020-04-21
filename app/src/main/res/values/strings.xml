@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RetrofitMvp</string>
+    <string name="perm_tip">Aplikasi saat ini tidak memiliki izin yang diperlukan.Silakan klik Pengaturan - Izin - Buka izin yang diperlukan.Terakhir, klik tombol kembali dua kali untuk kembali.</string>
+    <string name="setting">set</string>
+    <string name="cancel">cancel</string>
+    <string name="get_some_premission">Aplikasi ini memerlukan izin. Apakah ingin mengaktifkan secara manual?</string>
+</resources>
